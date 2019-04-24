@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VerificationOfEntity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VerificationOfEntity_jar</output-path>
+    <root id="archive" name="VerificationOfEntity.jar">
+      <element id="module-output" name="VerificationOfEntity" />
+    </root>
+  </artifact>
+</component>
